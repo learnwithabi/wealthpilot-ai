@@ -1,0 +1,1 @@
+pip install langgraph langgraph-supervisor langchain-groq langchain-core python-dotenv

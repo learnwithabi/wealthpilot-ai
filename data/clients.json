@@ -1,0 +1,246 @@
+{
+  "clients": {
+    "C001": {
+      "name": "Rahul Sharma",
+      "age": 57,
+      "risk_profile": "Moderate",
+      "category": "High Net Worth",
+      "retirement_in_years": 3,
+      "portfolio": {
+        "total_value": "₹8.4 Crore",
+        "equity": {
+          "percentage": 65,
+          "holdings": [
+            {"stock": "HDFC Bank", "allocation": 12},
+            {"stock": "Reliance Industries", "allocation": 10},
+            {"stock": "TCS", "allocation": 8},
+            {"stock": "Infosys", "allocation": 7},
+            {"stock": "ITC", "allocation": 5},
+            {"stock": "Other Equities", "allocation": 23}
+          ]
+        },
+        "debt": {
+          "percentage": 25,
+          "holdings": [
+            {"instrument": "Government Bonds", "allocation": 15},
+            {"instrument": "Corporate FD", "allocation": 10}
+          ]
+        },
+        "gold": {
+          "percentage": 10,
+          "holdings": [
+            {"instrument": "Sovereign Gold Bond", "allocation": 10}
+          ]
+        }
+      }
+    },
+    "C002": {
+      "name": "Priya Mehta",
+      "age": 34,
+      "risk_profile": "High",
+      "category": "Mass Affluent",
+      "retirement_in_years": 26,
+      "portfolio": {
+        "total_value": "₹3.2 Crore",
+        "equity": {
+          "percentage": 80,
+          "holdings": [
+            {"stock": "Wipro", "allocation": 15},
+            {"stock": "Asian Paints", "allocation": 12},
+            {"stock": "Bajaj Finance", "allocation": 10},
+            {"stock": "Adani Ports", "allocation": 8},
+            {"stock": "Other Equities", "allocation": 35}
+          ]
+        },
+        "debt": {
+          "percentage": 15,
+          "holdings": [
+            {"instrument": "Mutual Funds - Debt", "allocation": 15}
+          ]
+        },
+        "gold": {
+          "percentage": 5,
+          "holdings": [
+            {"instrument": "Gold ETF", "allocation": 5}
+          ]
+        }
+      }
+    },
+    "C003": {
+      "name": "Arjun Nair",
+      "age": 45,
+      "risk_profile": "Moderate-High",
+      "category": "Ultra High Net Worth",
+      "retirement_in_years": 15,
+      "portfolio": {
+        "total_value": "₹12.1 Crore",
+        "equity": {
+          "percentage": 55,
+          "holdings": [
+            {"stock": "SBI", "allocation": 10},
+            {"stock": "Maruti Suzuki", "allocation": 9},
+            {"stock": "Sun Pharma", "allocation": 8},
+            {"stock": "HCL Technologies", "allocation": 7},
+            {"stock": "Titan", "allocation": 6},
+            {"stock": "Other Equities", "allocation": 15}
+          ]
+        },
+        "debt": {
+          "percentage": 30,
+          "holdings": [
+            {"instrument": "NPS", "allocation": 20},
+            {"instrument": "PPF", "allocation": 10}
+          ]
+        },
+        "gold": {
+          "percentage": 15,
+          "holdings": [
+            {"instrument": "Physical Gold", "allocation": 8},
+            {"instrument": "Sovereign Gold Bond", "allocation": 7}
+          ]
+        }
+      }
+    },
+    "C004": {
+      "name": "Sneha Kapoor",
+      "age": 28,
+      "risk_profile": "Very High",
+      "category": "Mass Affluent",
+      "retirement_in_years": 32,
+      "portfolio": {
+        "total_value": "₹85 Lakh",
+        "equity": {
+          "percentage": 90,
+          "holdings": [
+            {"stock": "Zomato", "allocation": 20},
+            {"stock": "Paytm", "allocation": 15},
+            {"stock": "Nykaa", "allocation": 12},
+            {"stock": "Delhivery", "allocation": 10},
+            {"stock": "Other Small Caps", "allocation": 33}
+          ]
+        },
+        "debt": {
+          "percentage": 5,
+          "holdings": [
+            {"instrument": "Liquid Fund", "allocation": 5}
+          ]
+        },
+        "gold": {
+          "percentage": 5,
+          "holdings": [
+            {"instrument": "Digital Gold", "allocation": 5}
+          ]
+        }
+      }
+    },
+    "C005": {
+      "name": "Vikram Sinha",
+      "age": 55,
+      "risk_profile": "Low-Moderate",
+      "category": "High Net Worth",
+      "retirement_in_years": 5,
+      "portfolio": {
+        "total_value": "₹6.7 Crore",
+        "equity": {
+          "percentage": 70,
+          "holdings": [
+            {"stock": "HDFC Bank", "allocation": 18},
+            {"stock": "Bajaj Auto", "allocation": 12},
+            {"stock": "Power Grid", "allocation": 10},
+            {"stock": "NTPC", "allocation": 8},
+            {"stock": "Other Equities", "allocation": 22}
+          ]
+        },
+        "debt": {
+          "percentage": 20,
+          "holdings": [
+            {"instrument": "Senior Citizen Savings Scheme", "allocation": 20}
+          ]
+        },
+        "gold": {
+          "percentage": 10,
+          "holdings": [
+            {"instrument": "Sovereign Gold Bond", "allocation": 10}
+          ]
+        }
+      }
+    },
+    "C006": {
+      "name": "Anita Desai",
+      "age": 42,
+      "risk_profile": "Moderate",
+      "category": "NRI",
+      "retirement_in_years": 18,
+      "portfolio": {
+        "total_value": "₹4.5 Crore",
+        "equity": {
+          "percentage": 45,
+          "holdings": [
+            {"stock": "Infosys", "allocation": 15},
+            {"stock": "TCS", "allocation": 12},
+            {"stock": "Wipro", "allocation": 10},
+            {"stock": "Other Equities", "allocation": 8}
+          ]
+        },
+        "debt": {
+          "percentage": 40,
+          "holdings": [
+            {"instrument": "NRE Fixed Deposit", "allocation": 25},
+            {"instrument": "NRO Account", "allocation": 15}
+          ]
+        },
+        "gold": {
+          "percentage": 15,
+          "holdings": [
+            {"instrument": "Sovereign Gold Bond", "allocation": 15}
+          ]
+        }
+      }
+    }
+  },
+  "market_outlook": {
+    "Banking": {
+      "outlook": "Moderate Growth",
+      "summary": "RBI rate stabilization expected. PSU banks showing strong NPA recovery. Private banks remain resilient with 12-15% loan growth projected.",
+      "recommendation": "Neutral to Overweight. Monitor RBI policy in next quarter.",
+      "risk": "Medium"
+    },
+    "IT": {
+      "outlook": "Cautious",
+      "summary": "Global IT spending slowdown continues. US recession fears impacting deal wins. AI-driven efficiency plays expected to outperform traditional services.",
+      "recommendation": "Underweight. Selective exposure to AI-focused players like Infosys and TCS.",
+      "risk": "Medium-High"
+    },
+    "Pharma": {
+      "outlook": "Strong Growth",
+      "summary": "US FDA approvals picking up. Domestic formulations growing at 10% YoY. Export opportunities expanding in emerging markets.",
+      "recommendation": "Overweight. Add Sun Pharma and Dr. Reddy's on dips.",
+      "risk": "Low-Medium"
+    },
+    "FMCG": {
+      "outlook": "Stable",
+      "summary": "Rural demand recovering post-monsoon. Input costs easing. Volume growth of 6-8% expected in next 2 quarters.",
+      "recommendation": "Neutral. Hold existing positions. ITC and HUL preferred picks.",
+      "risk": "Low"
+    },
+    "Real Estate": {
+      "outlook": "Strong Growth",
+      "summary": "Residential demand at 10-year high. Commercial office space absorption strong in Tier-1 cities. REITs offering 7-8% yield.",
+      "recommendation": "Overweight. Consider REITs for stable income.",
+      "risk": "Medium"
+    },
+    "Energy": {
+      "outlook": "Moderate Growth",
+      "summary": "Renewable energy capex cycle accelerating. Oil & Gas sector benefiting from stable crude prices. Power Grid and NTPC well-positioned.",
+      "recommendation": "Overweight on renewables. Neutral on traditional energy.",
+      "risk": "Medium"
+    }
+  },
+  "risk_benchmarks": {
+    "Conservative":     {"max_equity": 30, "min_debt": 60, "sharpe_target": 0.8},
+    "Moderate":         {"max_equity": 50, "min_debt": 40, "sharpe_target": 1.0},
+    "Moderate-High":    {"max_equity": 65, "min_debt": 25, "sharpe_target": 1.1},
+    "High":             {"max_equity": 80, "min_debt": 15, "sharpe_target": 1.3},
+    "Very High":        {"max_equity": 95, "min_debt": 5,  "sharpe_target": 1.5}
+  }
+}
